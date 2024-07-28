@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+import(vegan)
+import(stringr)
+import(progress)
+importFrom("graphics", "axis", "layout", "lines", "mtext", "par", "plot", "points", "polygon", "text")
+importFrom("stats", "as.dist", "cophenetic", "hclust")
