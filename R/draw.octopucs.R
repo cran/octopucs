@@ -4,7 +4,7 @@ method=NULL, prop=NULL, Name=NULL, ylim=NULL, xlim=NULL, verbose=NULL,
 orientation=NULL, support=NULL, sep.lab=NULL, disp = NULL){
   userpars <-par(no.readonly = TRUE) #collect users parameters
   on.exit(par(userpars)) #reset users parameters on exit of the function
-  
+
   if(class(M2)[1]=="octopucs") {
     support <- M2$support
     M2 <- M2$gcluster

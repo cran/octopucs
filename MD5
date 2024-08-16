@@ -1,14 +1,15 @@
-130e6b27ea7ee5f3f3d82a936dd5b1ea *DESCRIPTION
+1e6b89ca504e4213e53f334875f12705 *DESCRIPTION
 9f2a06302cb187974075570ac38baae8 *NAMESPACE
 b98b5bdc6df8451035ab6af764e1c038 *R/F1.R
 55a9b6d34832f3754f55d72d81aa4940 *R/IDsclsuter2.R
 cfd5c3ff05aefe6223bdb4557dd2ff93 *R/IDscluster.R
 41870504aab2c98bb4ceb426a2e2a064 *R/compsim2.R
-70b824ec7a38c0fa5f5d290bdc6ed48e *R/draw.octopucs.R
+f4ba1e3cacf4dc0945241044c23df426 *R/draw.octopucs.R
 8c507ea4d4ebdfa40f5b21a27635090c *R/glzcluster.R
 dc346dcc59eaf20fb472b3f6012e5c70 *R/glzcluster2.R
 51576c24b53fb535b5bbc6fe2d9d1ae7 *R/glzcs.R
 e342d753e1926004dda749af9b043381 *R/octopucs.R
+48d60ab0c0efff6a066e6fb1d34feb93 *inst/CITATION
 ed7f5bbdbff52ead23549503745bf016 *man/F1.Rd
 c77e75b8698fed8671d0d37b19bbf525 *man/IDscluster.Rd
 491a56320bce147a1d85889ed2976504 *man/IDscluster2.Rd

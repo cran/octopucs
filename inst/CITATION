@@ -1,0 +1,11 @@
+bibentry(
+  "Article",
+  title = "Integrity and miss grouping as support for clusters in agglomerative hierarchicl methods: The R package {octopucs}",
+  author = "Ian MacGregor-Fors, Roger Guevara",
+  year = 2024,
+  journal = "bioRvix",
+  volume = "2024.08.01",
+  number = 1,
+  pages = 606070,
+  doi = "10.1101/2024.08.01.606070",
+)
